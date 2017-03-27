@@ -1,4 +1,4 @@
 #!/bin/bash -se
-asdfjklasdfjl;
+sleep 60
 service httpd start
 
