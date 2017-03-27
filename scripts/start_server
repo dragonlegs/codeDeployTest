@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/bin/bash -se
+asdfjklasdfjl;
 service httpd start
 
